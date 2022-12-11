@@ -1,4 +1,4 @@
-module github.com/NattapatN/sudoku-ai
+module github.com/NattapatN/sudoku-resolver
 
 go 1.18
 

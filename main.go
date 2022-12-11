@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/NattapatN/sudoku-ai/handler"
+	"github.com/NattapatN/sudoku-resolver/handler"
 	"github.com/common-nighthawk/go-figure"
 )
 
